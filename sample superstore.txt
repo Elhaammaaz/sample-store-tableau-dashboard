@@ -1,0 +1,13 @@
+
+
+Project Highlights:
+
+📊 Sales and Profit Reports: Detailed analysis by customer, product, and region.
+🔮 Sales Forecasting: Predictive analytics for future sales trends.
+📉 Waterfall & Lollipop Charts: Visual breakdowns of sales by category and subcategory.
+🗺️ Interactive Map Visualizations: Geographical insights with filtering capabilities.
+🍩 Donut Chart: Showcasing profit distribution and regional performance.
+📈 Orders vs. Returns Analysis: Line visualization highlighting returns by product subcategory.
+📦 Interactive Product Dashboard: A comprehensive overview of sales and profits across products, regions, and states.
+🧩 Linked Interactive Dashboards & Stories: Bringing it all together in a seamless and engaging narrative.
+
